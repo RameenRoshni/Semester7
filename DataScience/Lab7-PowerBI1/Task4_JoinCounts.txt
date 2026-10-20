@@ -1,0 +1,4 @@
+Left Outer: 10 rows - All enrollments are retained; CS999 has no matching course details.
+Inner: 9 rows - Only enrollments with an existing course are retained.
+Full Outer: 11 rows - All enrollments and all courses are retained, including the course nobody took.
+Left Anti: 1 row - Shows enrollment E10 with the invalid course code CS999.

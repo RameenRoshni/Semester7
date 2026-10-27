@@ -1,0 +1,4 @@
+1. When the Customers-Sales relationship changes from Single to Both, selecting Laptop changes the customer table from all four customers to Ali Khan only.
+2. Hina is the customer who has no orders.
+3. Monitor is the product that was never sold.
+4. Computers Sales shows 900 on the Accessories row because CALCULATE replaces the current category filter with the Computers category filter.
